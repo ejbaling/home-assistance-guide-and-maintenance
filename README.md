@@ -14,4 +14,7 @@ The following integrations can break if these 2 options are enabled.
 * SmartThings
 * Tailscale
 * WebRTC Camera
-
+## Disable Home Assisstant Supervisor auto update.
+```
+ha supervisor options --auto-update=false
+```
