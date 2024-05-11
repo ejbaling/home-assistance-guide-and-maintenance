@@ -15,7 +15,8 @@ https://github.com/ejbaling/eufy_security, forked from fuatakgun/eufy_security
 ### Install Home Assistant Community Store (HACS). 
 * Enable [Advanced mode] in your profile page
 * Install [Terminal & SSH] from Add-on Store, use the search field to find it https://www.youtube.com/watch?v=Q8Gj0LiklRE&ab_channel=SmartHomeJunkie
-* Type ```wget -O - https://get.hacs.xyz | bash -```
+* Type ```wget -O - https://get.hacs.xyz | bash -```. Restart Home Assistant.
+* From Integrations Page, click ADD INTEGRATION. Search HACS and add it.
 ### Install go2rtc Add-on https://github.com/ejbaling/WebRTC, forked from fuatakgun/WebRTC
 
 ## Disable newly added entities and polling for updates.
