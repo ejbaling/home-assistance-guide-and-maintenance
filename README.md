@@ -10,6 +10,10 @@ Follow the instruction in this link https://smarthomescene.com/guides/how-to-ins
 
 ## Eufy Security
 https://github.com/ejbaling/eufy_security, forked from fuatakgun/eufy_security
+Summary:
+### Install Eufy Security Add-On https://github.com/ejbaling/hassio-eufy-security-ws, forked from bropat/hassio-eufy-security-ws
+2. Install Home Assistant Community Store (HACS). You must nable [Advanced mode] in your profile page to install this.
+3. Install go2rtc Add-on https://github.com/ejbaling/WebRTC, forked from fuatakgun/WebRTC
 
 ## Disable newly added entities and polling for updates.
 Other integrations can break if these 2 options are enabled on the following integrations.
