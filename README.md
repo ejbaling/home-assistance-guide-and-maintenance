@@ -21,7 +21,7 @@ https://github.com/ejbaling/eufy_security, forked from fuatakgun/eufy_security
 ### Install Eufy Security Integration
 * Search for ```Eufy Security``` inside ```HACS``` Integrations.
 * Install ```Eufy Security```. Restart Home Assistant.
-* From Integrations Page, click ADD INTEGRATION. Search ```Eufy Security`` and add it. You cannot add this if the ```Eufy Security Add-On``` is not configured and running.
+* From Integrations Page, click ADD INTEGRATION. Search ```Eufy Security``` and add it. You cannot add this if the ```Eufy Security Add-On``` is not configured and running.
 
 ## Disable newly added entities and polling for updates.
 Other integrations can break if these 2 options are enabled on the following integrations.
